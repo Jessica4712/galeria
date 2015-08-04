@@ -13,6 +13,6 @@ function hola5() {
 }
 
 function volver() {
-	document.getElementById('imagenprincipal').src="./imagenes/imagenprincipal.jpg";
+	document.getElementById('imagenprincipal').src="./imagenes/imagenPrincipal.jpg";
 }
 
